@@ -3,8 +3,8 @@ layout: about
 title:  "About"
 ---
 
-#### Who am I?
-Hello, my name is Hugo Carreira, I'm from Rio de Janeiro, I have 19 years and Computer Science course at University Veiga de Almeida.
+### 我们
+常州轻工职业技术学院现代企业课程SWOT项目展示网站。
 
-#### What do I do?
-At the moment I am web development intern at [Capemisa Seguradora](http://www.capemisa.com.br). And in his spare time writing code to myself, everything is in my [Github](http://github.com/hugocarreira).
+### 功能
+为校园内宿舍提供清洁及装饰服务。
