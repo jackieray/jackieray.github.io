@@ -7,4 +7,4 @@ description: "项目描述"
 ---
 
 
-目前此项目处于起步阶段，团队招人，需要资金，如有意愿请联系：1771241466@qq.com rayqianzhang@gmail.com
+## 目前此项目处于起步阶段，团队招人，需要资金，如有意愿请联系：1771241466@qq.com 或者 rayqianzhang@gmail.com
